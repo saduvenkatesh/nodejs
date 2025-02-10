@@ -8,3 +8,6 @@
       require    - function to use modules (Commonjs)
       module     - info about current module (file)
       process    - info about env where the program is being executed
+6) system uptime - The total time the system or service is operational and availbale
+
+7) path module - allows to intereact with file path
